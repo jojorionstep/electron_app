@@ -1,27 +1,18 @@
-## Welcome to GitHub Pages
+# Welcome to Simple Video Converter
 
-You can use the [editor on GitHub](https://github.com/jojorionstep/electron_app/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+this app translate video type to your whish video type.
+You can download app in this page .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Corresponding Video Type 
 
-### Markdown
+- AVI
+- MPEG
+- MOV
+- MP4
+- MPEG
+- OGV
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+## Download Link
 
 [Link](url) and ![Image](src)
 ```
